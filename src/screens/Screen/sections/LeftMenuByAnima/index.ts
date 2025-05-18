@@ -1,1 +1,0 @@
-export { LeftMenuByAnima } from "./LeftMenuByAnima";

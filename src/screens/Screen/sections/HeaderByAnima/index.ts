@@ -1,1 +1,0 @@
-export { HeaderByAnima } from "./HeaderByAnima";
